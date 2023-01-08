@@ -1,8 +1,8 @@
 {
-  "name": "boilerplate-base",
+  "name": "@grpc-base-client/apm",
   "description": "This project is just a template for creation of new projects",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
   },
@@ -62,11 +62,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codibre/boilerplate-base.git"
+    "url": "https://github.com/codibre/grpc-base-client-apm.git"
   },
-  "homepage": "https://github.com/codibre/boilerplate-base#readme",
+  "homepage": "https://github.com/codibre/grpc-base-client-apm#readme",
   "bugs": {
-    "url": "https://github.com/codibre/boilerplate-base/issues"
+    "url": "https://github.com/codibre/grpc-base-client-apm/issues"
   },
   "keywords": [],
   "license": "MIT",
