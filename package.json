@@ -71,10 +71,12 @@
   "keywords": [],
   "license": "MIT",
   "peerDependencies": {
-    "grpc-base-client": ">=1.3.0"
+    "grpc-base-client": ">=2.1.1",
+    "@grpc/grpc-js": "*"
   },
   "devDependencies": {
     "@codibre/confs": "^1.1.2",
+    "@grpc/grpc-js": "^1.8.1",
     "@types/jest": "^27.4.1",
     "@typescript-eslint/eslint-plugin": "^5.28.0",
     "@typescript-eslint/parser": "^5.28.0",
